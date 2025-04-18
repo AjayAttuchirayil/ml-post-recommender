@@ -1,0 +1,17 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+.venv/
+venv/
+env/
+
+# Data & Models
+/data/processed/
+models/
+
+# Streamlit cache
+.streamlit/
