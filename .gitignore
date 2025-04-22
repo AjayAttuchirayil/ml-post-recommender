@@ -10,7 +10,7 @@ venv/
 env/
 
 # Data & Models
-/data/processed/
+#/data/processed/
 models/
 
 # Streamlit cache
